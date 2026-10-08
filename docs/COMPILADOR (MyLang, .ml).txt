@@ -1,0 +1,13 @@
+COMPILADOR (MyLang, .ml)
+Ruta técnica (próximos pasos)
+---------------------------------------------
+
+1. Implementación del return con Valor
+
+2. Análisis de Tipos Estático (Type Checking)
+
+3. Introducción a la Máquina Virtual (Bytecode)
+
+4. Gestión de Memoria (Garbage Collection)
+
+5. Optimización del AST
